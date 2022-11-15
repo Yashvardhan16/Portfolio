@@ -1,4 +1,4 @@
-# Personal Portfolio Website in React
+#  Portfolio Website in React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -11,7 +11,7 @@ Built using:
 - CSS framework: React-bootstrap
 - CSS animations library: Animate.css
 
-In the /personal-portfolio, you can run:
+In the /Portfolio, you can run:
 
 ### `npm start`
 
